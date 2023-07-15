@@ -1,0 +1,23 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-4f80e8b6.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/images/illustration.png": {
+    "file": "assets/illustration-7ad2aad1.png",
+    "src": "resources/images/illustration.png"
+  },
+  "resources/images/jobet.png": {
+    "file": "assets/jobet-186c8c4a.png",
+    "src": "resources/images/jobet.png"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/jobet-186c8c4a.png"
+    ],
+    "file": "assets/app-5cc626f0.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
